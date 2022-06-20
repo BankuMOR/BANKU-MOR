@@ -178,3 +178,11 @@ margin: 100px auto;
   background-image: linear-gradient(to bottom, #30E3CB, #2BC4AD);
   text-decoration: none;
 }
+
+
+@media only screen and (max-width: 768px) {
+
+  .skill-row{ margin: 20px; }
+  .skill-row1{ margin: 20px; }
+  
+}
